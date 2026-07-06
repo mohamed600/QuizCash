@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Quiz Cash",
+    "slug": "quizcash",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "ma.quizcash.app"
+    },
+    "android": {
+      "package": "ma.quizcash.app",
+      "versionCode": 1
+    }
+  }
+}
